@@ -1,1 +1,6 @@
-std::cout << "Hello World";
+main()
+{
+  std::cout << "Hello World";
+
+  return 0;
+}
